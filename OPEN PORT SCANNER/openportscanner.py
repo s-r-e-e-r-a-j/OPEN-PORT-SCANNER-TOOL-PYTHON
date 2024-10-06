@@ -25,7 +25,7 @@ for port in range(startport,endport+1):
     sock.close() 
 print("") 
 print("")
-i=1 
+i=0 
 arraylength=len(result_array)
 print("scan complete")
 print("") 
